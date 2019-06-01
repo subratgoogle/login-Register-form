@@ -1,4 +1,4 @@
-# Login & Register Form
+# Login and Register Form
 ### This webpage create with the help of HTML, CSS and JQUERY
 ### In this webpage include dropdown with the help of Jquery.
 <hr>
